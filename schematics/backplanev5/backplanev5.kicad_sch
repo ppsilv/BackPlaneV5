@@ -2,9 +2,51 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid c4851f5c-edd8-4340-8a53-6aaa01d97892)
+	(uuid "c4851f5c-edd8-4340-8a53-6aaa01d97892")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 25.4 38.1)
+		(size 76.2 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f132ef3b-19a2-48ab-b5d0-8221b982b9d2")
+		(property "Sheetname" "backplane"
+			(at 25.4 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "backplane.kicad_sch"
+			(at 25.4 55.1946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "backplanev5"
+				(path "/c4851f5c-edd8-4340-8a53-6aaa01d97892"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
