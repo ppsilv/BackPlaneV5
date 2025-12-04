@@ -1,0 +1,16 @@
+Info: Processing symbol 'J1:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J2:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J3:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J4:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J5:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J6:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J7:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J8:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J9:ConnPdSilva:conn_euro96'.
+Info: Processing symbol 'J10:ConnPdSilva:conn_euro96'.
+Info: Total warnings: 0, errors: 0.
+
+
+
+
+Info: Total warnings: 0, errors: 0.
