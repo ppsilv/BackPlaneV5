@@ -1,0 +1,17 @@
+
++--------------------------+-----------------+------------------------------------+
+|Grupo de Sinais	       |Largura Sugerida |Justificativa                       |
++--------------------------+-----------------+------------------------------------+
+|D0-D15 e A1-A14	       |0,70 mm	         |Excelente condução, robustez total  |
+|                          |                 |e ainda deixa corredores para o     |
+|                          |                 |plano de terra passar entre elas.   |
++--------------------------+-----------------+------------------------------------+
+|GND e VCC	               |1,5 mm a 2,0 mm	 |O máximo que puder. Para o 68000    |
+|                          |                 |a 16MHz, a estabilidade da          |
+|                          |                 |alimentação é tudo.                 |
++--------------------------+-----------------+------------------------------------+
+|Strobes (/AS, /LDS, /UDS) |0,50 mm	         |Mantenha-os um pouco mais finos     |
+|                          |                 |que os dados para facilitar o       |
+|                          |                 |roteamento direto e curto, mas      |
+|                          |                 |ainda bem mais grossos que o v1.    |
++--------------------------+-----------------+------------------------------------+
